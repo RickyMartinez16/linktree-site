@@ -1,0 +1,50 @@
+body {
+    background-image: linear-gradient(to bottom right, red, yellow);
+    height: 100%;
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: auto;
+   }
+
+html {    
+    height:100%;
+}
+
+.main-img {
+    display: block;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid blue 5px;
+    border-radius: 50px;
+}
+
+.icons {
+    display: flex;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.software-eng{
+    /* display: block;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto; */
+}
+
+.acting{
+    /* display: block;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto; */
+}
+
+.basic-info{
+    /* display: block;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto; */
+}
