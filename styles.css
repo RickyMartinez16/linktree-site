@@ -14,7 +14,7 @@ html {
 
 .main-img {
     display: block;
-    width: 200px;
+    width: 175px;
     margin-left: auto;
     margin-right: auto;
     border: solid blue 5px;
@@ -33,18 +33,20 @@ html {
 }
 
 .software-eng{
-    /* display: block;
-    width: 200px;
+    display: flex;
+    flex-direction: column;
+    /* width: 200px;
     margin-left: auto;
     margin-right: auto; */
 }
 
 .acting{
-    /* display: block;
-    width: 200px;
+    display: flex;
+    flex-direction: column;
+    /* width: 200px;
     margin-left: auto;
     margin-right: auto; */
-}
+} 
 
 .basic-info{
     /* display: block;
