@@ -23,9 +23,13 @@ html {
 
 .icons {
     display: flex;
-    width: 200px;
-    margin-left: auto;
+    width: 50%;
+    margin-top: 0px;
     margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    justify-content: center;
+    align-items: center;
 }
 
 .software-eng{
