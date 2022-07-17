@@ -91,6 +91,7 @@ html {
 .acting{
     display: flex;
     flex-direction: column;
+    align-items: center;
 } 
 
 .acting p {
@@ -102,6 +103,7 @@ html {
 }
 
 #acting-btn{
+    align-items: center;
     justify-content: center;
     margin-top: 4px;
     margin-bottom: 4px;
