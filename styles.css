@@ -14,6 +14,11 @@ html {
     height:100%;
 }
 
+#header{
+    margin: 10px;
+    padding: 10px;
+}
+
 .main-img {
     display: block;
     width: 175px;
@@ -119,6 +124,6 @@ html {
 }
 
 #footer{
-    margin: 20px;
-    padding: 5px;
+    margin: 30px;
+    padding: 10px;
 }
