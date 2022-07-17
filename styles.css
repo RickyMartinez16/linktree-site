@@ -117,3 +117,8 @@ html {
     font-family: dejavu Sans, Arial, Verdana, sans-serif;
     color: rgb(1, 2, 39)   
 }
+
+#footer{
+    margin: 20px;
+    padding: 5px;
+}
